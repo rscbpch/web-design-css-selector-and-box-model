@@ -16,7 +16,7 @@ body {
 }
 
 button {
-    border-radius: 20px;
+    border-radius: 30px;
     border: none;
     padding: 10px;
     cursor: pointer;
@@ -33,11 +33,11 @@ button {
 }
 
 .btn2 {
-    background-color: palevioletred;
+    background-color: lightpink;
 }
 
 .btn2:hover {
-    background-color: red;
+    background-color: palevioletred;
     color: aliceblue;
 }
 
@@ -46,6 +46,6 @@ button {
 }
 
 .btn3:hover {
-    background-color: darkblue;
+    background-color:darkcyan;
     color: aliceblue;
 }
