@@ -6,3 +6,14 @@ p {background-color: yellow;}
 input {border: solid red 3px;}
 .hello {background-color: white;}
 #special {border: solid blue 2px;}
+
+/* bonus challange */
+div p {font-size: 25px;}
+input[type="text"] {background-color: gray;}
+input[type="checkbox"]:checked {margin-left: 50px;}
+label {text-transform: uppercase;}
+#special::first-letter {
+    color: green;
+    font-size: 100px;
+}
+h1:hover {color: blue;}
